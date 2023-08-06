@@ -37,7 +37,7 @@ My formal training is in the latter, but they run on the same principles.  You c
 ### A breakdown:
 - Databases: MySQL
 - Programming: Python, R
-- Statistics: Hypythesis Testing, A/B Testing
+- Statistics: Hypothesis Testing, A/B Testing
 - Data Visualization: Matplotlib, Seaborn, Plotly, Tableau, Excel
 - Cloud: AWS, Hadoop, Spark
 - UI: Kivy, KivyMD
