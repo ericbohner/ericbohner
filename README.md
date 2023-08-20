@@ -1,6 +1,13 @@
 # Eric Bohner, PhD
 
-I'm a Data Scientist with a background in Analytic Philosophy.  I love diving in to big problems to understand their small parts.
+I'm an Analytic Philosopher with an interest and training in Data Science.  I love diving in to big problems to understand their small parts.  I care deeply about public policy, data driven progress, and the correct use of the word "valid."  
+
+In my free time, I pretend to be a serious powerlifter and casual gamer (the opposite is likely true).
+
+My best (gym) lifts:
+💥 Squat: 440 lbs / 200 kg
+💥 Bench Press: 285 lbs / 129.25 kg
+💥 Deadlift: 495 lbs / 224.5 kg
 
 ## What I Do
 I feel obligated to lean into the cliché about philosophers: I think (deeply?) about things.
