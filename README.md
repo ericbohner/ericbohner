@@ -6,7 +6,9 @@ In my free time, I pretend to be a serious powerlifter and casual gamer (the opp
 
 My best (gym) lifts:
 💥 Squat: 440 lbs / 200 kg
+
 💥 Bench Press: 285 lbs / 129.25 kg
+
 💥 Deadlift: 495 lbs / 224.5 kg
 
 ## What I Do
