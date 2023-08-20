@@ -4,7 +4,7 @@ I'm an Analytic Philosopher with an interest and training in Data Science.  I lo
 
 In my free time, I pretend to be a serious powerlifter and casual gamer (the opposite is likely true).
 
-My best (gym) lifts @ 210 lbs / 95 kg:
+My best (gym) lifts @ 210 lbs / 95 kg as of July 2023:
 
 - 💥 Squat: 440 lbs / 200 kg
 - 💥 Bench Press: 285 lbs / 129.25 kg
