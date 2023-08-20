@@ -4,12 +4,11 @@ I'm an Analytic Philosopher with an interest and training in Data Science.  I lo
 
 In my free time, I pretend to be a serious powerlifter and casual gamer (the opposite is likely true).
 
-My best (gym) lifts:
-💥 Squat: 440 lbs / 200 kg
+My best (gym) lifts @ 210 lbs:
 
-💥 Bench Press: 285 lbs / 129.25 kg
-
-💥 Deadlift: 495 lbs / 224.5 kg
+- 💥 Squat: 440 lbs / 200 kg
+- 💥 Bench Press: 285 lbs / 129.25 kg
+- 💥 Deadlift: 495 lbs / 224.5 kg
 
 ## What I Do
 I feel obligated to lean into the cliché about philosophers: I think (deeply?) about things.
